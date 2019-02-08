@@ -20,7 +20,7 @@ for token in tokens:
     if token in sr:
         clean_tokens.remove(token)
 
-#Getting the frecuency
+#Getting the frequency
 freq = nltk.FreqDist(clean_tokens)
  
 for key,val in freq.items():
