@@ -1,2 +1,2 @@
 # Words-frequency
-Program that plots the most frecuent words in a text file.
+Program that plots the most frequent words in a text file.
